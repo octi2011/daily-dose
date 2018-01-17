@@ -6,6 +6,8 @@
 //  Copyright © 2017 Devslopes. All rights reserved.
 //
 
+// run this on a device, StoreKit does not work on a simulator
+// itunes and apple developer program accounts need to be set up in order for this to work!
 import UIKit
 import GoogleMobileAds
 
